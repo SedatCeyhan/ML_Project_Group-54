@@ -1,1 +1,5 @@
-# ML_Project_Group-54
+# ML Final Project - Group 54 (Trinity College Dublin)
+
+* As we know, Dublin accommodates a lot of bicycle roads and people enjoy cycling around the city for either traveling or leisure. There are various bicycle parking spaces all around the Dublin city (e.g., Dublin Now, Dublin City Bikes, etc), and most of the people would be interested in knowing the number of current bicycles in a specific bicycle parking area in Dublin. Our ML model predicts the number of available bikes on a given date and time (day and hour) at a specific Dublin location. Citizens would know whether there are enough bikes in a specific parking spot if they need one and the local council can take necessary action based on the number of bikes in a location (e.g., investing more on the bike lanes in that area since more bikes may mean more traffic in that area, etc). Moreover, knowing the number of bikes in Dublin city locations might help the local council make smart allocations of bikes (e.g., if one area is empty and another is expected to be full or near full, then some of the bikes in the latter location can be allocated to the former)
+
+* With our ML models, we aim to accurately predict the number of bikes at specific Dublin parking lots at a particular time in a particular day.
